@@ -1,0 +1,16 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+body>header h2{
+	font-size: 0.7em;
+}
+body>nav a{
+	font-size: 0.9em;
+}
+body>header {
+   padding-top: 2.7em;
+   padding-bottom: 2.7em;
+}
+header hgroup{
+	text-align:center;
+}
