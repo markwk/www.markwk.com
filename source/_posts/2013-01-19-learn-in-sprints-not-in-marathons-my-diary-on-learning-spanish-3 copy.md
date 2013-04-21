@@ -12,8 +12,11 @@ categories:
   - Learning Spanish Diary
   - Spain
   - Spanish
+comments: true
 ---
 # 
+
+{% img center http://farm9.staticflickr.com/8246/8663620348_67d36cabec_b.jpg %}
 
 It's been about a week since I arrived in Spain, and I haven't written anything since arriving. It's been a bit of a bumpy road so far, but in terms of Spanish improving, I can already feel myself improving.
 

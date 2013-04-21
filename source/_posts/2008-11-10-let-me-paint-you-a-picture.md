@@ -17,13 +17,13 @@ categories:
   - Abroad
   - China
   - Cultural Comprehesions
+comments: true
 ---
 # 
 
-[![][2]][2]  
+{% img right /images/wp-img/paint-me-a-picture.JPG %}
+ 
 If you went to paint or sketch in a park almost anywhere in the world, no one would come up to you or bother you or, let alone, look over your shoulder to see what you were doing. You would be left more or less to yourself. This is almost anywhere except in China, except when you are identifiably white.
-
- []: http://4.bp.blogspot.com/_b2anAyo1mOo/SRfQy3bfwnI/AAAAAAAAAPg/QsLTjzg5ZRk/s1600-h/010.JPG
 
 Let me paint you a few pictures.
 

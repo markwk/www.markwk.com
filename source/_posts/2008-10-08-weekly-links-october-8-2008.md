@@ -15,6 +15,7 @@ blogger_permalink:
   - /2008/10/weekly-links-october-8-2008.html
 categories:
   - Weekly Links
+comments: true
 ---
 # 
 

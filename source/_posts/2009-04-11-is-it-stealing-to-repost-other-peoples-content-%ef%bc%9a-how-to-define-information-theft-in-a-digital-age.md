@@ -8,6 +8,7 @@ categories:
   - Ethics
   - Internet
   - Virtual World
+comments: true
 ---
 # 
 

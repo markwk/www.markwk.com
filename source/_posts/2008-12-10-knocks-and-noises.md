@@ -18,10 +18,12 @@ categories:
   - China
   - Cultural Comprehesions
   - Language
+comments: true
 ---
 # 
 
-[![][2]][2] 
+{% img center /images/wp-img/knocks-and-noises-china.JPG %}
+
 There is a knock in the night. Its sound is sudden and unexpected but not aggressive nor energetically angry as it echoes metallicly through the double doors of my apartment. I hear it in wonder and unknowing as I'm pulled back from somewhere else.
 
 I had been connected to the net, speaking to worlds much farther away. These places and peoples are all across this narrowing world in which digital dial-ups virtually bridge geographical distances. We once went to the moon, but to my grandmother, there is something equally impressive, if not more so, about the daily capacity today of seeing a voice and hearing a face on the other side of the world.
@@ -52,5 +54,4 @@ During my first weeks in China, I had this experience that the voices I was over
 
 In the end, even though we close ourselves off as we sometimes always must, collectively shared meaning does somehow manage to seep through us as one face meets another, as a sympathetic look creates a meaningful pause, and as closed and closed-off doors are brought to be opened by ourselves and by others. Meaning comes up afloat amongst these strange tidal waves as a noise becomes a knock, a knock becomes an outsider, and an outsider becomes a friend.
 
- []: http://2.bp.blogspot.com/_b2anAyo1mOo/ST6lsUwsCfI/AAAAAAAAAU0/5b6yixcLW64/s1600-h/034.JPG
  [2]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective.html

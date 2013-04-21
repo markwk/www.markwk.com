@@ -19,13 +19,13 @@ categories:
   - Biology
   - Cultural Comprehesions
   - Language
+comments: true
 ---
 # 
 
-[![][2]][2]  
-monde lunaire.
+{% img center /images/wp-img/monde-lunaire.jpg %}
 
- []: http://4.bp.blogspot.com/_b2anAyo1mOo/SZGVhO2wMfI/AAAAAAAAAVM/wTXI_Z3jeoE/s1600-h/digital_3D-1096.jpg
+monde lunaire.
 
 We enter by the back door, deaf and dumb, though listening. We plead with ourselves to listen and to be listened to. Culture de l'autre. Perdue dans un monde lunaire, nous cherchons à retrouver quelchose de nous-meme. Delocalized souls. We listen though we know not what to listen for. We sing though we know not the words. Alien codes that inch towards the known, towards a known know already by someone else. We read the world about us in the virtual clarity of our known tongues, our already soft-wired brains of stereotypes, and we are connected across skyped oceans and globalized weblinks. We are not so foreign there, but we aren't quite so there-there in the virtual there. It's an away home always closely there, but never here-there.
 

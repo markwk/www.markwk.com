@@ -18,14 +18,13 @@ categories:
   - Documentary Film
   - Doubt
   - Religion
+comments: true
 ---
 # 
 
-[![][2]][2]Religulous ： 
+{% img center /images/wp-img/religulous-teaser-poster.jpg %} 
+
+## Religulous ： 
 
 Bill Maher's take on the current state of world religion. 
-Available in streaming through Watch-Movies.net: [Click Here to Watch Religulous][3]
-
- []: http://samuelatgilgal.files.wordpress.com/2008/08/religulous-teaser-poster.jpg
- [2]: http://samuelatgilgal.files.wordpress.com/2008/08/religulous-teaser-poster.jpg
- [3]: http://www.watch-movies.net/movies/religulous/
+Available in streaming through Watch-Movies.net: [Click Here to Watch Religulous](http://www.watch-movies.net/movies/religulous/)

@@ -16,6 +16,7 @@ blogger_permalink:
 categories:
   - China
   - Weekly Links
+comments: true
 ---
 # 
 

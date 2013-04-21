@@ -9,20 +9,17 @@ categories:
   - Learning
   - Teaching
   - Technology
+comments: true
 ---
 # 
 
-[![][2]][2]
-
- []: http://www.markwk.com/wp-content/uploads/2010/10/valessiobrito_Plate_Computer_Privacy.png
+{% img center /images/wp-img/technology-in-the-toilet.png %} 
 
 I've been working a lot recently on integrating technology into my teaching. I've never really been one to use powerpoint (PPTs) for classes and presentations, but one of the bonuses of my job at SWUFE, one of the most famous universities in China, is that it has allowed me to use computers and projectors. While almost none of my classes at university in the US and France have used much of any technology, it is clear that almost all the teachers at my current Chinese university heavily use powerpoint presentations. There are admittedly good and poor uses of technology. Some teachers clearly use their premade presentations in order to avoid real preparation and simply read from the board.
 
 One of the big advantages of overhead presentations is the ability to incorporate visual to instigate discussion and oral practice.
 
-I have also started using [a teaching-oriented web space][2] to add a dimension of integration between face-to-face learning in class and after-class homework and study. The idea is to attempt to blend learning across both the physical time spent in the class and the additional time students and teachers can interact outside of the classroom.
-
- [2]: http://www.markwk.com/teaching
+I have also started using [a teaching-oriented web space](http://www.markwk.com/teaching) to add a dimension of integration between face-to-face learning in class and after-class homework and study. The idea is to attempt to blend learning across both the physical time spent in the class and the additional time students and teachers can interact outside of the classroom.
 
 Recently, in my writing class, I've been thinking about how to take this webspace one step further and hopefully develop a way to engage in active collaborative learning. Specifically, I think Wikis present an interesting opportunity to improve the process of collective and collaborative writing. I do worry that an entirely open form of a wiki is ill-suited for a classroom where students might misuse such technological freedoms and forms of anonymity.
 

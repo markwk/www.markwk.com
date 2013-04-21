@@ -6,7 +6,8 @@ permalink: /2012/09/not-being-the-tag-along-reflection.html
 blr_date:
   - 2013-04-10
 categories:
-  - Uncategorized
+  - Reflection
+comments: true
 ---
 # 
 

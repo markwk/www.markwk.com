@@ -21,6 +21,7 @@ categories:
   - Human Rights
   - Primates
   - Traditions
+comments: true
 ---
 # 
 
@@ -28,7 +29,9 @@ categories:
 
 **Eat or Not to Eat: A Chinese Societal Debate on Dogs and Cats**
 
-[][1][![][3]][3]There has been a considerable amount of news about the treatment of dogs and cats in China recently. A few days ago there was something like a group sit-in to prevent the transfer of a truck overfilled with dogs. The pictures and videos present a dramatic portrait of ill-treatment dogs and cats experience in China--pet stealing, transferred in trucks across to butchers and restaurant tables. The fact remains that China is still a country where people eat domestic animals.
+{% img right /images/wp-img/badman-with-dog.jpg %} 
+
+There has been a considerable amount of news about the treatment of dogs and cats in China recently. A few days ago there was something like a group sit-in to prevent the transfer of a truck overfilled with dogs. The pictures and videos present a dramatic portrait of ill-treatment dogs and cats experience in China--pet stealing, transferred in trucks across to butchers and restaurant tables. The fact remains that China is still a country where people eat domestic animals.
 
  [1]: http://www.markwk.com/wp-content/uploads/2011/04/badman.png
  []: http://www.markwk.com/wp-content/uploads/2011/04/badman2.jpg

@@ -15,10 +15,13 @@ blogger_permalink:
   - /2008/10/beside-lake-beneath-trees.html
 categories:
   - Poetry
+comments: true
 ---
 # 
 
-[![][2]][2] I Wandered Lonely As A Cloud 
+{% img right /images/wp-img/stones-over-water.jpg %} 
+
+## I Wandered Lonely As A Cloud 
 
 I wandered lonely as a cloud  
 That floats on high o'er vales and hills,  
@@ -48,5 +51,3 @@ And then my heart with pleasure fills,
 And dances with the daffodils.
 
 by William Wordsworth
-
- []: http://2.bp.blogspot.com/_b2anAyo1mOo/SP9g90Vxw5I/AAAAAAAAAN0/HoAyJHDyAaw/s1600-h/stones over water.jpg

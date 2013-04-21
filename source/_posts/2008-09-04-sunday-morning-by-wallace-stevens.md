@@ -15,6 +15,7 @@ blr_date:
   - 2013-04-07
 categories:
   - Poetry
+comments: true
 ---
 # 
 

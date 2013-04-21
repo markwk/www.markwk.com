@@ -13,7 +13,7 @@ categories:
 
 Welcome to my web world [Mark Koester][1]! I am currently designing and building my own personal web space. Unfortunately, I am extremely busy with my work on another project: [ MaeWest Consulting 美西教育, cross-cultural consulting in Chengdu ][2]. Please visit that site for more about what I am doing and working on. Or visit one of my last web writing project located at the [ Mystic Atheist][3].
 
- [1]: http://markwk.com
+ [1]: http://www.markwk.com
  [2]: http://ccc-chengdu.com
  [3]: http://mysticatheist.blogspot.com
 

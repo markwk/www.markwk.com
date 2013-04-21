@@ -17,6 +17,7 @@ categories:
   - China
   - Humor
   - Traveling
+comments: true
 ---
 # 
 

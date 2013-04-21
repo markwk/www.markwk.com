@@ -17,14 +17,13 @@ categories:
   - Philosphy
   - Psychology
   - Time
+comments: true
 ---
 # 
 
-In this video [The Time Paradox, at FORA.tv][1], psychologist Philip Zimbardo offers an interesting account of subjective or psychological time. Namely, he considers that we have a select few frameworks of time reference:
+In this video [The Time Paradox, at FORA.tv](http://fora.tv/2008/11/12/Philip_Zimbardo_The_Time_Paradox), psychologist Philip Zimbardo offers an interesting account of subjective or psychological time. Namely, he considers that we have a select few frameworks of time reference:
 
- [1]: http://fora.tv/2008/11/12/Philip_Zimbardo_The_Time_Paradox
-
-1.) past time perspective - postie  
+1.) past time perspective - positive  
 2.) past time perspective - negative  
 3.) present time perspective - hedonism  
 4.) present time perspective - fatalism  

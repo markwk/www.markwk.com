@@ -8,7 +8,8 @@ blr_date:
 categories:
   - Business
   - Personal
-  - Photos 照片
+  - Photos
+comments: true
 ---
 # 
 
@@ -16,8 +17,6 @@ Here are the results of weeks and weeks of work, sweat, doubt and various admini
 
 Two Incredibly Large, Shiny, Chinese Business Licenses!
 
-[![Mark, an American, with Chinese Business Licenses][2]][2]
-
- []: http://markwk.com/wp-content/uploads/2010/07/mark-with-chinese-business-licenses-reduced.jpg
+{% img center /images/wp-img/mark-with-chinese-business-licenses-reduced.jpg %} 
 
 Now it's time to get to business...

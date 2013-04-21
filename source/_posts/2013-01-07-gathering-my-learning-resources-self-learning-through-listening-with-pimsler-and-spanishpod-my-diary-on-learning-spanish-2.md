@@ -11,8 +11,11 @@ categories:
   - Learning Spanish Diary
   - Spain
   - Spanish
+comments: true
 ---
 # 
+
+{% img left http://farm9.staticflickr.com/8264/8663628418_a84bcb8ef0.jpg %}
 
 It's important when you learn a foreign language that you expose yourself to the best resources possible and through those resources develop the most successful learning method for yourself. **Your ability to progress faster and more effectively depends on getting the right stuff in the right doses over a progressive timeline.** I suppose that last point about memory and spaced repetive learning deserves its own post, but for now, let's focus on finding the best learning resources for Spanish.
 

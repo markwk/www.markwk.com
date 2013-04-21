@@ -5,18 +5,11 @@ layout: post
 permalink: /2008/11/les-ames-delocalisees.html
 blr_date:
   - 2013-04-09
-blogger_blog:
-  - reflectedplaces.blogspot.com
-blogger_author:
-  - >
-    Mark
-    Koesterhttp://www.blogger.com/profile/09381494138988308929noreply@blogger.com
-blogger_permalink:
-  - /2008/11/les-mes-dlocalises.html
 categories:
   - En Français
   - Globalization
   - Identity
+published: true
 ---
 # 
 

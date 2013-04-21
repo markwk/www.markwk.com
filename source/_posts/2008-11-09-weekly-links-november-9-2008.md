@@ -15,6 +15,7 @@ blr_date:
   - 2013-04-11
 categories:
   - Weekly Links
+comments: true
 ---
 # 
 

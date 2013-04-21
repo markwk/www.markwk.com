@@ -14,3 +14,11 @@ body>header {
 header hgroup{
 	text-align:center;
 }
+body>header {
+  background-image:url('/images/background-morocco-01.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body>header h1 a, body>header h1 a:visited, body>header h1 a:hover{
+	color:black;
+}

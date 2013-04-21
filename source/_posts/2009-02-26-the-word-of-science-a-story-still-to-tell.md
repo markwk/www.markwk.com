@@ -19,18 +19,17 @@ categories:
   - Identity
   - Meaning
   - Narrative
+comments: true
 ---
 # 
 
-[![Post Modern Striving Man Statue from Park in Beijing, China][2]][2]
-
- []: http://www.markwk.com/wp-content/uploads/2009/02/post-modern-striving-man.jpg
+{% img center /images/wp-img/post-modern-striving-man.jpg "Post Modern Striving Man Statue from Park in Beijing, China" %} 
 
 Humans have always searched for meaning in their lives and in the world around them. Every society has created stories to explain the natural and supernatural things around us. Ultimately, these stories help to provide us with a meaningful place in a confusing universe. Storytelling or story-living is the axis between our personal and interpersonal lives. Historically, “myths,” rituals, religion, and epic storytelling were used to weave individual stories and personal selves into larger, collective narratives and communal entities. Even today, as we grow up, we forge a unique identity or personal self through this act of storytelling. We take up many of our shared narratives and instill upon them a personal sense of ownership. We creatively add something of our own upon that which was already there and waiting for our mark.
 
 In our scientific age, atheists have often severely critiqued religions and religious truth. It is rather easy to do: Close readings have shown textual and logical contradictions in divine texts. Geologists and biologists have shown that creation was not a spontaneous act creating all life as such but was a rather slow process of evolution. Astrophysicists have shown that the universe began with the Big Bang and not seven days of separating heaven, earth, etc. and that our Earth and all its atomic minerals were slowly created through fusion of countless stars' primordial furnaces, not the Word of God. These are only a few of the startling truths science has accumulated and continues to accumulate through experimentation and observation. And yet religious people still find truth and meaning in their religions, their rituals, their spiritual books, and their collective communities in spite of everything that seems so wrong about it. Atheists often find blatant error in religious people's claim at truth and meaning in such sources. But such a judgment ignores that people generally don't look at these stories and communities through the lenses of scientific reasoning but through the lenses of a broader, more primordial human phenomenon: narrative truth and storytelling.  
   
-The Word of God: One Story for All People
+## The Word of God: One Story for All People
 
 In the Bible, some of the writings of the Old Testament date back to around 1200 B.C. while those of the New Testament were written in the first and second centuries A.D. Likewise, the first manuscript of the Koran dates from around 633 A.D. and the first authorized version appeared about 650 A.D. Believers claim that even though these texts were delivered and received at a particular place and time in the past, the words contained within are those of God's eternal voice. As such, these texts are often taken as the core textual basis of how certain religious groups should live out their lives. As many commentators have shown, these texts are littered with contradictions, and if we take religious belief at face value, we must take these contradictions as God's alone. This begs some questions: Why would God contradict Him/Herself? How could God's Word, as an eternal divine force outside of time and space, have contradictions, which, by definition, could only exist in time's passage (namely that someone can only contradict something that was said or done before)? These are just a few of examples of problems non-believers and some believers have with religious sources.
 
@@ -40,7 +39,7 @@ Religions appeal to divine moments when a new storyline came to be, namely God r
 
 Current religions are largely the products of cultural fusions between other contemporary stories and beliefs. Atheists often critique these fusions because they claim that they reveal the fact these stories cannot be legitimately claimed as “the World of God.” But in all things cultural, there is no such thing as cultural purity, because as historically-embedded cultural storytellers, we are always grounded in these stories that are larger than us, and it is from and through these larger cultural backdrops that we are able to instill creatively upon our world and our personal lives a sense of meaning. Without a backdrop, there would be nothing to orient us.  
   
-The Word of Science: A Story Still to Tell
+## The Word of Science: A Story Still to Tell
 
 Atheists talk about atheism in terms of facts, and religious people talk about their faith in terms of stories.
 

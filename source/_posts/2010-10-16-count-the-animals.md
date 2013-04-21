@@ -7,6 +7,7 @@ blr_date:
   - 2013-04-10
 categories:
   - Animals
+comments: true
 ---
 # 
 
@@ -14,6 +15,4 @@ I'm not sure exactly what was the attraction: smell? clothes? warm body? well-ch
 
 Check out the picture and see if you can figure out just how many furry friends managed to fit into the frame:
 
-[![Mark gets a lot of animal love][2]][2]
-
- []: http://www.markwk.com/wp-content/uploads/2010/10/too-much-animal-attention-resize.jpg
+{% img center /images/wp-img/too-much-animal-attention-resize.jpg %}

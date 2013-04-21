@@ -11,15 +11,13 @@ categories:
   - Cultural Understandings
   - Ethics
   - Food
+comments: true
 ---
 # 
 
-[![Xiaohei (Little Black) and her two kids sleeping][2]][2]
-Xiaohei (Little Black) and her two kids sleeping
+{% img center /images/wp-img/xiaohei-and-kids.jpg "Xiaohei (Little Black) and her two kids sleeping" %} 
 
-**A Lesson on the Cultural Politics of Animals in China**
-
- []: http://www.markwk.com/wp-content/uploads/2010/10/xiaohei-and-kids.jpg
+## A Lesson on the Cultural Politics of Animals in China
 
 In contrast to dogs, who were consciously breed from wolves, cats are believed to have never truly been domesticated, but instead, it is thought that cats just one day moved into the farms and granaries. The farmers needed help keeping the mice and rodents out of their storerooms and the cats were hungry so it seemed to work out fine for both parties. Perhaps it is their differing evolution, social adaption or their genetic makeup that separates felines from canines, but it is clear from anyone that cats and dogs behave differently.
 
@@ -27,7 +25,7 @@ Recently, a small family of cats moved into my balcony and established themselve
 
 Compared to most cat families I've known, this family has been surprisingly close-knit, in spite of the age of the children. I've seen them spend numerous afternoons coiled up together in basket in my first-floor balcony. The mother's love for her children was clear. At times they would disappear for a day or so, but for the past fews months (encouraged by the daily feedings from my roommate), they'd found a kind of home, a kind of security.
 
-**The cat's out of the bag or in it? **
+## The cat's out of the bag or in it?
 
 A week or so ago, the mother, Xiaohei (Little Black), returned without her children. There was something not quite right about her, her look, her walk. Her physical body spoke of some emotional distress. She was looking for her children. One might argue that she was just looking for food or affection. But to me, it was her kin she was seeking. In the past few months, excluding the few days when she was kept inside after she was spayed, I'd not once seen her with her kids. I'd did really know what to think. Perhaps some family had taken them in or perhaps they'd been hurt. But after observing their behavior for months, it was impossible to imagine their separation.
 
@@ -35,7 +33,7 @@ I've become increasingly integrated with Chinese animals. My daily walks with my
 
 China is not the easiest place to understand--too many people, languages, cultures and angles to any question. Even simple questions require long digressions to even attempt an adequate response. While the language and cultures of China still remain difficult for me to understand, though improving, I wasn't entirely surprised by what had happened to Xiaohei's teenager children.
 
-**My Cats Were Stolen By the Cantonese**
+## My Cats Were Stolen By the Cantonese
 
 When the topic was brought up with a local friend of mine, her answer was quick and firm: the cats had been stolen by the the Cantonese, the people from Guangdong in southern China.
 

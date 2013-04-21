@@ -9,16 +9,15 @@ categories:
   - China
   - Cultural Understandings
   - Law
+comments: true
 ---
 # 
 
-[![My Dog Jianjian worried about Dog License in China][2]][2]
-
- []: http://markwk.com/wp-content/uploads/2010/09/jianjian-looking-resize.jpg
+{% img right /images/wp-img/jianjian-looking-resize.jpg My Dog Jianjian worried about Dog License in China %} 
 
 I recently inherited a dog in China from a friend. Since it's a "street" or "abandoned" dog, I'm currently investigating and going through all the steps to get her properly registered and legal in China. It is not as easy as I had imagined due to the constantly evolving political and legal landscape that characterizes contemporary China. Before going into the detail of getting a license for your dog, the first and most obvious step to registering any pet whether in China or another foreign country is making sure that pet is properly vaccinated and has gotten all the right dog shots.
 
-**Getting Your Dog Vaccinated in China: New Rules for Dogs and Vaccines in China**
+## Getting Your Dog Vaccinated in China: New Rules for Dogs and Vaccines in China
 
 Like I learned when I registered a business in China, there is the law on paper and the law in practice with the obvious precedence of practice and application over what's written. Both of these parts regularly change over time and depending on the local circumstances so it is never entirely clear what to do, how to do, when to do and when you might need to do it again or differently. It is best to check with a Chinese-speaking friend on the specifics of your situation as well as check with the local regulatory bodies in your area. But, even then, you will only really know what is to be done when you are finished doing it.
 

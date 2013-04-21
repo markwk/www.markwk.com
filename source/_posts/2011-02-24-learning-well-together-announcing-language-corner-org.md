@@ -12,14 +12,13 @@ categories:
   - Teaching
   - Technology
   - Web Development
+comments: true
 ---
 # 
 
 How does one teach and learn effectively in our digital age? In a world inundated with information, how do we build and sustain a healthy community of learners? Or, to put it simply, **how can we learn well together?**
 
-I haven't blogged or written publicly in sometime, but these are the questions that I've been reflecting on for several months; these were the challenges that spurred me to create [Language-Corner.org][1], the first (to my knowledge) group-oriented, open space for groups of language learners.
-
- [1]: http://language-corner.org
+I haven't blogged or written publicly in sometime, but these are the questions that I've been reflecting on for several months; these were the challenges that spurred me to create [Language-Corner.org](http://language-corner.org), the first (to my knowledge) group-oriented, open space for groups of language learners.
 
 [![][3]][3]
 

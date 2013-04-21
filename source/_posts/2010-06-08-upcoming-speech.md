@@ -8,6 +8,7 @@ blr_date:
 categories:
   - Business
   - Cross-Cultural
+comments: true
 ---
 # 
 
@@ -20,6 +21,5 @@ For more info, check out my pages at [CCC-Chengdu.com][1].
 I look forward to talking to a wider audience of university students about life abroad and about future possibilities. I’ll hopefully be able to post parts of my speech online as well as photos from the event.
 
 Here’s a copy of the advertisement I created for the event:  
-[![abroad tips speech][3]][3]
 
- []: http://markwk.com/wp-content/uploads/2010/06/abroad_tips_speech_ad.png
+{% img center /images/wp-img/abroad_tips_speech_ad.png "Study Abroad Tips" %} 

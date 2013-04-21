@@ -5,6 +5,7 @@ author: Mark Koester
 categories:
   - Language
   - Writing
+comments: true
 ---
 
 ## I like to write...
@@ -16,6 +17,8 @@ I use and have used various tools: the teenager's scrawled notebooks, transition
 All of these are essentially different ways to capture text digitally, ways of recording.
 
 ## I like my tools to not hide my words...
+
+<!--more-->
 
 Recently though, I've become somewhat obsessed with using TextMate (a popular Mac code editor) to write in Markdown, a simplistic syntax with some kind mark up for different things. It's a bit of post-modern primitive thing.
 

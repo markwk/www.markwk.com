@@ -9,6 +9,7 @@ categories:
   - China
   - Taiwan
   - Technology
+comments: true
 ---
 # 
 
@@ -18,17 +19,11 @@ For those that don't know: Startup Weekend is an event where entrepreneurs, mark
 
 ** First Startup Weekend Taipei, China: Thoughts **
 
-[![][2]][2]
+{% img left /images/wp-img/startup-weekend-taipei-logo.jpeg %}
 
- []: http://www.markwk.com/wp-content/uploads/2011/08/d73005b5c603011db911f343bbb61e56_g.jpeg
+Earlier this summer I attended that Chicago Startup Weekend. SW Chicago added a new twist by incorporating for the SW event with[ SPARK Chicago](http://www.sparkchi.com/2011/07/meet-the-spark-teams/). After the final pitches and decisions Sunday evening, the three winning teams from Chicago Startup Weekend were then given three more days of development with local shops and an ultimate winner was decided. This twist made it more competitive and somewhat different than traditional SW events.
 
-Earlier this summer I attended that Chicago Startup Weekend. SW Chicago added a new twist by incorporating for the SW event with[ SPARK Chicago][2]. After the final pitches and decisions Sunday evening, the three winning teams from Chicago Startup Weekend were then given three more days of development with local shops and an ultimate winner was decided. This twist made it more competitive and somewhat different than traditional SW events.
-
- [2]: http://www.sparkchi.com/2011/07/meet-the-spark-teams/
-
-A couple of days ago, I had the pleasure of attending the first S[tartup Weekend Event in Taipei][3]. For anyone familiar with Chinese culture and society, there were some cultural questions like "Will anyone dare to pitch?" and "How is the team formation going to go?" Fortunately, these two questions went off without a hitch. There were 20 pitches in English and Chinese, and teams seemed to form without much trouble initially.
-
- [3]: http://taipei.startupweekend.org
+A couple of days ago, I had the pleasure of attending the first S[tartup Weekend Event in Taipei](http://taipei.startupweekend.org). For anyone familiar with Chinese culture and society, there were some cultural questions like "Will anyone dare to pitch?" and "How is the team formation going to go?" Fortunately, these two questions went off without a hitch. There were 20 pitches in English and Chinese, and teams seemed to form without much trouble initially.
 
 One interesting note on both of these was the fact that many Taiwan participants came rather prepared with long-developed ideas and some set groups. This, of course, led to some rigid voting and team building since some people had already decided. Personally, I made a strong effort to talk and mingle with all of the people I could at SW, but I cannot say this was the norm. So, next time:
 
@@ -48,7 +43,6 @@ I was happy to have had my small part and look forward to the coming versions of
 
 Those are just a few thoughts for now. I have a small list of ideas I'd like to share. Hopefully I'll have time in the coming days to get a few more thoughts up on SW Taipei and improving Startup Weekend for China and Taiwan.
 
-[![][5]][5]
-All the participants, members, organizers and judges gather at end of long weekend.
+[{% img center /images/wp-img/startup-weekend-group-pic-thumb.jpg %}](/images/wp-img/startup-weekend-group-pic.jpeg)
 
- []: http://www.markwk.com/wp-content/uploads/2011/08/262814_244294652268798_242904605741136_815919_5558759_n.jpeg
+All the participants, members, organizers and judges gather at end of long weekend.

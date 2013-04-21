@@ -10,14 +10,14 @@ categories:
   - France
   - Language
   - Traveling
+comments: true
 ---
 # 
 
-[[![A reflective pond scene from a garden in Suzhou, China.][3]][3]][2]  
+{% img center /images/wp-img/suzhou-reflective-tree1.jpg "A reflective pond scene from a garden in Suzhou, China." %} 
+
 I'm in Shanghai. It's a bitterly cold night. Its completed tall-buildings are diamonds scattered among the still-pending construction sites. From the wind and hunger, I've found refuge in a Muslim noodle shop, a context whose Chinese I have more or less mastered. I order my noodles and wait. 
 
- []: http://4.bp.blogspot.com/_llzLbYMRFto/SfILQHmPegI/AAAAAAAAADw/CaYPRzg8Vsg/s1600-h/suzhou reflective tree.jpg
- [2]: http://www.markwk.com/wp-content/uploads/2009/04/suzhou-reflective-tree1.jpg
 
 “Est-ce que tu m'entends hey ho ! Est-ce que tu me sens hey ho !”
 

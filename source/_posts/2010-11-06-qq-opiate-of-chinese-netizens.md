@@ -12,9 +12,9 @@ categories:
 ---
 # 
 
-[![][2]][2]It’s surprising sometimes the way things turn in a foreign country. I suppose it wold be better to say that it’s surprising in general how things go in any country or culture. The only difference is that your cultural radar in a foreign language isn’t always prepared for what comes up.
+{% img left /images/wp-img/Tencent_QQ.png %}
 
- []: http://www.markwk.com/wp-content/uploads/2010/11/Tencent_QQ.png
+It’s surprising sometimes the way things turn in a foreign country. I suppose it wold be better to say that it’s surprising in general how things go in any country or culture. The only difference is that your cultural radar in a foreign language isn’t always prepared for what comes up.
 
 A case in point is the recent standoff between QQ, the largest and most powerful instant message service in China, and 360safe, a large, free provider of anti-virus software. The numbers are in themselves quite staggering: QQ is said to have 1 billion registered accounts and 500 million active monthly users, and 360safe is said to be used by 200 million people.
 
@@ -24,9 +24,7 @@ Apparently, 360safe claims that Tencent, the company that administers QQ instant
 
 The story took a stranger turn when Tencent decided to block usage of QQ to any using 360safe’s anti-virus program. The importance and widespread saturation of QQ in Chinese society cannot be understated. Whether for social or business interactions, the Chinese use QQ more than they use email to communicate. Tencent’s actions left many Chinese people to wake up to their QQ messaging service not working.
 
-[![Which to cut off? QQ or 360safe?][3]][3]
-
- []: http://www.markwk.com/wp-content/uploads/2010/11/2595420.jpg
+{% img center /images/wp-img/qq_which_to_cut_off.jpg %}
 
 360safe could not really encourage people use an alternative messaging service, because in fact, there really isn’t any viable alternative in China to QQ, at least not yet. MSN and Google have made inroads. Certain social media sites like Kaixin001 and RenrenWang offer friend-oriented messaging services. But QQ is the overwhelming master player.
 
@@ -49,5 +47,3 @@ Numerous observations can be offered up to this event:
 From a Western perspective, it seems (!) impossible to imagine Google shutting down access to Gmail just because you use a Blackberry instead of an Android phone. But this is more or less what happened: one large company got caught in the wrong but is powerful enough to simply say, So what? Everyone is a loser in this situation. It’s just that some are big enough to never really get knocked down.
 
 I awoke this morning with a blitz of Chinese news, but I imagine most Chinese woke up with an annoying “no service” for their QQ. As these stats indicate[1], they may not like or agree with QQ’s actions and largely side with 360safe in the dispute, but when push comes to shove, it is easier to give up an anti-virus program than for the Chinese to give up QQ. Something other instant messaging services probably already knew: QQ is the domestically-produced opiate of choice for the Chinese netizens, an addiction that is hard to imagine changing anytime soon.
-
-[1]: 

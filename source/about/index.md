@@ -7,6 +7,8 @@ layout: page
 
 {% img center http://farm9.staticflickr.com/8112/8659596424_2025d565db.jpg %}
 
+This is a test line. 
+
 Welcome to my "webbed" space, Markwk.com. For some time and on multiple occasions, I have sought to try to establish a "theme" for my blog with little success. Philosophy, sociology, web design, cross-cultural experience and understanding, religion and atheism, storytelling, language study, travels and life abroad  (specifically in France and China)  and recently starting a business abroad are all part of my ever-evolving trains of thought and regularly appear in my writings. I am a lay philosopher and indoctrinated foreigner.
 
 I stake no claim to authority nor truth. I am human and search for answers humanly in the Nietzschean genealogical tradition of the "art of mistrust" and Husserl's phenomenological approach. In the spirit of the Islamic Mystic Ibn ul'Arabi's words, "Deliver us, oh Allah, from the sea of names," I avoid name dropping and referencing. Saying "according to So-and-So" or "he said that" does not improve human thinking, it is only a technique to makes you seem more informed. I am open to mistakes and thoroughly enjoy criticism and intellectual challenges I am neither guard but simply a guardian of critical thinking

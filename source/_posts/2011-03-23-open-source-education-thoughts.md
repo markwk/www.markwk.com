@@ -12,6 +12,7 @@ categories:
   - Learning
   - Technology
   - Web Development
+comments: true
 ---
 # 
 

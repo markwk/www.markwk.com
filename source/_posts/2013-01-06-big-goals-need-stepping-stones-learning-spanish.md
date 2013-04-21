@@ -11,8 +11,11 @@ categories:
   - Language Learning
   - Learning Spanish Diary
   - Spain
+comments: true
 ---
 # 
+
+{% img center http://farm9.staticflickr.com/8122/8659624026_2ec67f25b5_z.jpg %}
 
 So I've decided to start documenting my process in learning Spanish. There are various reasons why I'd like to write about this but the general reason is simple: so I actually do it. I think writing about it and making a goal public helps improve you reach it.
 

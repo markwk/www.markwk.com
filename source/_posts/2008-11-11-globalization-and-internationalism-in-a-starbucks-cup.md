@@ -17,9 +17,9 @@ categories:
   - Economics
   - Globalization
   - Internationalism
+published: true
+comments: true
 ---
 # 
 
-[![][2]][2]
-
- []: http://2.bp.blogspot.com/_llzLbYMRFto/SRmWtMneLzI/AAAAAAAAAB0/bl3FFY1icQg/s1600-h/starbucks, mcd international chains.jpg
+[{% img center /images/wp-img/starbucks-mcd-international-chains-thumb.jpg %}](/images/wp-img/starbucks-mcd-international-chains.jpg)
