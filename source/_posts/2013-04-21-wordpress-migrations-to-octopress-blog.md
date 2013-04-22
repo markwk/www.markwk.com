@@ -12,6 +12,7 @@ categories:
   - Jekyll
   - Writing
   - Octopress
+  - Technology
 published: true
 comments: true
 ---
