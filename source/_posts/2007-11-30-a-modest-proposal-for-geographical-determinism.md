@@ -17,6 +17,7 @@ categories:
   - Anthropology
   - Ethics
   - Geopolitics
+comments: true
 ---
 # 
 

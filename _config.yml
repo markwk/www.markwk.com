@@ -4,12 +4,12 @@
 
 url: http://www.markwk.com
 # url: http://markwk.github.io
-title: Minding the Borderlands
-subtitle: Mark Koester (@markwkoester) on travel, startups, language, philosophy and computer tech
+title: Mark Koester
+subtitle: Personal Blog. A Data-Driven Life. Minding the Interstitial Spaces since 2007.
 author: Mark Koester
 simple_search: http://google.com/search
-description: journal, writings and reflections on travel, philosophy, learning, language, and computer tech
-keywords: Mark Koester, Blog, journal, China, France, Europe, Spain, Drupal, tech, web
+description: A personal blog dedicated to self-tracking and data-driven life. Writing about philosophy, tech, data, travel and things-in-between since 2007.
+keywords: Mark Koester, Blog, journal, quantified self, language, China, France, Europe, travel, technology, self-tracking
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -49,12 +49,12 @@ titlecase: true       # Converts page and post titles to titlecase
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
 # default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
 # default_asides: [custom/asides/about.html, custom/asides/subscribe.html, asides/recent_posts.html, custom/asides/goals.html, custom/asides/flickr.html, custom/asides/license.html]
-default_asides: [custom/asides/about.html, custom/asides/subscribe.html, asides/recent_posts.html, custom/asides/flickr.html, custom/asides/license.html]
+default_asides: [custom/asides/about.html, custom/asides/subscribe.html, asides/recent_posts.html, custom/asides/goals.html, custom/asides/flickr.html, custom/asides/license.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
 # blog_index_asides:
-post_asides: [custom/asides/about.html, custom/asides/subscribe.html, asides/recent_posts.html, custom/asides/license.html]
+post_asides: [custom/asides/about.html, custom/asides/subscribe.html, custom/asides/favorite_posts.html, custom/asides/license.html]
 # page_asides:
 
 # ----------------------- #

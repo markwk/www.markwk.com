@@ -9,6 +9,8 @@ I partipate in variety of social media outlets. You can find me on:
     <tbody><tr>
         <td><a style="text-decoration: none;" href="https://twitter.com/#!/markwkoester" title="Twitter">
             <img src="/images/twitter.png" width="64px" height="64" alt="Twitter"></a> </td>
+        <td><a style="text-decoration: none;" href="https://instagram.com/markwk" title="Instgram">
+            <img src="/images/instagram.jpg" width="64px" height="64" alt="instagram"></a> </td>    
         <td><a style="text-decoration: none;" href="https://plus.google.com/102508826611212348817/about" title="Google+">
             <img src="/images/google+.jpeg" width="64px" height="64" alt="Google+"></a> </td>
         <td><a style="text-decoration: none;" href="http://www.flickr.com/photos/markwkoester/" title="Flickr">

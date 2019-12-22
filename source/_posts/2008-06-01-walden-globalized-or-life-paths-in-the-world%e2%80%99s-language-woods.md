@@ -11,7 +11,7 @@ categories:
   - Home
   - Identity
   - Language
-  - Traveling
+  - Travel
 ---
 # 
 

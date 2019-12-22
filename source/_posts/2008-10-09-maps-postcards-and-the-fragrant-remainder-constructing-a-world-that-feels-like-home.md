@@ -9,14 +9,12 @@ categories:
   - Cultural Comprehesions
   - Identity
   - Language
-  - Traveling
+  - Travel
 comments: true
 ---
 # 
 
-[![][2]][2]
-
- []: http://2.bp.blogspot.com/_b2anAyo1mOo/SOyGp5eke7I/AAAAAAAAANk/OTO_JHLuMpA/s1600-h/paul_klee_6.jpg
+{% img center http://www.markwk.com/images/wp-img/paul_klee_6.jpg %}
 
 I tack maps to my walls. In my bedroom. In my office. Postcards, but not photos, surround them.
 

@@ -18,10 +18,9 @@ categories:
 ---
 # 
 
-[![][2]][2]  
+{% img center http://www.markwk.com/images/wp-img/klee-house.jpg %}
+ 
 I've been haunted by a poem of Wallace Stevens for a longtime. His words in this poem speak to me in a way that makes me listen and forces to marvel.
-
- []: http://bp1.blogger.com/_b2anAyo1mOo/R-P7EzCJONI/AAAAAAAAACY/5Ns_IyHLKCY/s1600-h/klee house.jpg
 
 And yet there is something philosophical, hermeneutic or at least poetically-pointing-out about what he says and evokes, and ultimately, what he is proposing...beyond...between...with "us"...
 

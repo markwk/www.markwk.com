@@ -8,6 +8,7 @@ blr_date:
 categories:
   - Quantified Self
   - Tracking
+  - Track Everything
   - Self-Improvement
   - Time
 comments: true

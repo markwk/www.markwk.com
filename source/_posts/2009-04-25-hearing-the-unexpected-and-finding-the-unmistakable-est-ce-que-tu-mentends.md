@@ -9,7 +9,7 @@ categories:
   - Cultural Comprehesions
   - France
   - Language
-  - Traveling
+  - Travel
 comments: true
 ---
 # 

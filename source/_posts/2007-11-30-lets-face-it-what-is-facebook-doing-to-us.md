@@ -16,6 +16,7 @@ blr_date:
 categories:
   - Life
   - Virtual World
+comments: true
 ---
 # 
 

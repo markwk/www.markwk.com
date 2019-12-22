@@ -17,7 +17,7 @@ categories:
   - Abroad
   - Home
   - phenomenology
-  - Traveling
+  - Travel
 ---
 # 
 
@@ -95,4 +95,5 @@ Traveling can take place in a number of ways:
 We were with them once. *Home*. You are here with me now. *Home.* We found ourselves haunting, ourselves, together, then, here, now, alone, somewhere, lost, there, everywhere and us. *Home…*
 
  []: http://bp3.blogger.com/_b2anAyo1mOo/R-P7sTCJOOI/AAAAAAAAACg/GNdYCUnnUEE/s1600-h/kleedomes.jpg
- [2]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective.html
+
+[2]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective.html
