@@ -11,3 +11,8 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
+serve/
+_site/
+generate/
+_sass/
+.jekyll-cache/

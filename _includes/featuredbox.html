@@ -1,0 +1,29 @@
+
+<article class="post post-featured has-image">
+    <div class="post-inside">
+        {% if post.featured_image %}
+        <a href="{{ post.url | absolute_url }}" class="post-thumbnail"><img src="{{ post.featured_image | prepend: site.baseurl }}"
+                alt="{% if post.featured_image_alt %}{{ post.featured_image_alt }}{% else %}{{ post.title }}{% endif %}"></a>
+        {% endif %}
+        <header class="post-header">
+            <div class="post-meta">
+                <time class="published" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%B %-d, %Y"
+                    }}</time>
+            </div><!-- .post-meta -->
+            <h2 class="post-title">
+                <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a>
+            </h2>
+            <div class="post-tags">
+                {% if post.categories.size > 0 %}
+                {% for category in post.categories %}
+                {% if forloop.index == post.categories.size %}
+                <a href='{{ site.baseurl }}/category/{{ category | downcase | replace: ' ', '-' }}/'>{{ category | camelcase }}</a>
+                {% else %}
+                <a href='{{ site.baseurl }}/category/{{ category | downcase | replace: ' ', '-' }}/'>{{ category | camelcase }}</a>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+            </div>
+        </header><!-- .post-header -->
+    </div><!-- .post-inside -->
+</article><!-- .post -->

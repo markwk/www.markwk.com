@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<section>
+    <header>
+        <h1 class="category">Category: {{ page.title }}</h1>
+    </header>
+  <ul>
+    {% for post in paginator.posts %}
+
+      <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+
+{% if paginator.total_pages > 1 %}
+<nav class="pagination">
+  {% if paginator.previous_page_path %}
+    <a class="button previous" href="{{ paginator.previous_page_path }}" title="Previous posts">previous </a>
+  {% endif %}
+
+  {% if paginator.next_page_path %}
+    <a class="button next" href="{{ paginator.next_page_path }}" title="Next posts"> next</a>
+  {% endif %}
+</nav>
+{% endif %}
