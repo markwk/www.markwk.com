@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/03/weekly-links-march-19-2008.html
-blr_date:
-  - 2013-04-13
+date: 2008-03-20
 categories:
   - Weekly Links
 ---
@@ -34,7 +33,7 @@ He concludes with a hesitation and note of caution:
 
 2.) *Fuzzy Geography*. You can’t expect the properly understand the world and its political and social happenings today without properly understanding the underlying history and geography. As Philippe Rekacewicz bring up in *[La cartographie, entre science, art et manipulation][1]*, equally worth noting is the fact that maps and the mapping of the world still play an important role in many political debates in terms of their designation of borders and political status. For example, during the yearly meeting of UN on the environment in February 2002, the Chinese delegation walked out because Taiwan was labeled as an “independent state.” “Improperly” naming a place can bring on political backlashes (for example, *National Geographic* was criticized and politically sanctioned by Iran when the magazine used the term *Arabic Golf* instead of *Persian Golf*.)  As Rekacewicz writes:
 
- [1]: http://www.monde-diplomatique.fr/2006/02/REKACEWICZ/13169
+[1]: http://www.monde-diplomatique.fr/2006/02/REKACEWICZ/13169
 
 ***La carte sert aussi à formaliser des revendications identitaires et nationales, en particulier lorsqu’elle figure les frontières modernes, exercice toujours très périlleux tant les Etats entretiennent un rapport irrationnel avec la percep******tion de leur propre territoire. La carte peut alors manifester le déni des peuples.**** Ainsi ce cartographe professionnel qui, témoignant de sa « passion pour le monde des cartes, pour les voyages virtuels », nous écrivait : « La représentation des frontières est pour nous un cass**e-tête permanent. D’autant plus qu’on a toujours envie de les effacer, de les déplacer... Lorsque je dessine une carte d’Afrique, par exemple, au moment où je place les frontières, j’ai le sentiment d’agresser et de blesser les peuples. Elles apparaissent ensuite, sur la carte, comme de vilaines cicatrices. »*
 
@@ -42,7 +41,7 @@ He concludes with a hesitation and note of caution:
 
 There is **an extremely interesting and clarifying [Cartography section][2] at the *Le Monde Diplomatique***, which provides numerous maps meriting our closest attention in a political world played out on both on the ground and on the imaginary, representative level of our maps.  
 
- [2]: http://www.monde-diplomatique.fr/cartes/
+[2]: http://www.monde-diplomatique.fr/cartes/
 
 3.) ‘*Til Death Do We Part?* A recent article at the *New York Times* entitled *In Most Species, Faithfulness Is a Fantasy* chronicles the scientific data on adultery and monogamy, and the results show that: 
 
@@ -66,7 +65,7 @@ With the so-called “psychoactive revolution,” he asks:
 
 *The Greediest and yet Most Generous Nation** in the World? *The United States is often described as an individualistic, selfish nation, only concerned about itself. But, leaving aside the sociological, cultural and economic reasons brought up by [a post Not Your Daddy][3], the U.S. is statistically-speaking the most charity-giving country in the world. 
 
- [3]: http://notyourdaddy.wordpress.com/2008/02/27/most-generous-nation/
+[3]: http://notyourdaddy.wordpress.com/2008/02/27/most-generous-nation/
 
 [![][5]][5]
 

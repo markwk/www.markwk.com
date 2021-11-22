@@ -11,15 +11,14 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/03/reader-became-book.html
-blr_date:
-  - 2013-04-10
+date: 2008-03-21
 categories:
   - Poetry
 ---
 # 
 
 {% img center http://www.markwk.com/images/wp-img/klee-house.jpg %}
- 
+
 I've been haunted by a poem of Wallace Stevens for a longtime. His words in this poem speak to me in a way that makes me listen and forces to marvel.
 
 And yet there is something philosophical, hermeneutic or at least poetically-pointing-out about what he says and evokes, and ultimately, what he is proposing...beyond...between...with "us"...
@@ -28,7 +27,7 @@ The words tie the reader into images that absorb in all being as the image, as t
 
 Without saying more, before my words become confused with his words or with the words, let us listen to Wallace's words that remind us of what to listen to, to look for and be for:
 
-  
+
 > The house was quiet and the world was calm 
 > The house was quiet and the world was calm.  
 > The reader became the book; and summer night  

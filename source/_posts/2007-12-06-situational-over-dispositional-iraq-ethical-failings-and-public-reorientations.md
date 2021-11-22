@@ -2,6 +2,7 @@
 title: 'Situational over Dispositional: Iraq, Ethical Failings, and Public Reorientations'
 author: Mark Koester
 layout: post
+date: 2007-12-06
 categories:
   - Ethics
   - Moral Psychology
@@ -28,6 +29,6 @@ In my opinion, the role of ethics and ethicists is largely a public one. Leaving
 It’s time for the United States and its politicians (including Hillary Clinton) to take responsibility for the situation they put their soldiers in as well as the geopolitical state of affairs the world finds itself in. We have to keep building and maintaining international, legal conditions (like the U.N. and the Council of Europe) that make human rights and progressive bettering more important than bloody revenge. We have to avoid situations where the rules of war trump the rules of peace, because in war everything gets broken.
 
  []: http://bp1.blogger.com/_b2anAyo1mOo/SEI0p1e2hQI/AAAAAAAAAME/44IHTro5brU/s1600-h/guard-250.jpg
- [2]: http://www.aug.edu/sociology/Jerusalem.htm
- [3]: http://fr.youtube.com/watch?v=1KXy8CLqgk4
+[2]: http://www.aug.edu/sociology/Jerusalem.htm
+[3]: http://fr.youtube.com/watch?v=1KXy8CLqgk4
  []: http://bp2.blogger.com/_b2anAyo1mOo/SEI0jmVEvNI/AAAAAAAAAL8/UNWIJ0k8DZo/s1600-h/abu-ghraib.jpg

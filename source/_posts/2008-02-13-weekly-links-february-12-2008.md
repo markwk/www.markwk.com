@@ -3,8 +3,7 @@ title: Weekly Links, February 12, 2008
 author: Mark Koester
 layout: post
 permalink: /2008/02/weekly-links-february-12-2008.html
-blr_date:
-  - 2013-04-14
+date: 2008-02-13
 blogger_blog:
   - mysticatheist.blogspot.com
 blogger_author:
@@ -63,8 +62,8 @@ Generally, I try to post my favorite links at the end of the week, either Friday
 
 - SPINOZA'S Ethics, Pt IV, Prop. 67
 
- [1]: http://freakonomics.blogs.nytimes.com/2008/02/08/the-economics-of-obesity-a-qa-with-the-author-of-the-fattening-of-america/
- [2]: http://sciencenow.sciencemag.org/cgi/content/full/2007/713/2
- [3]: http://www.independent.co.uk/life-style/health-and-wellbeing/health-news/prison-study-to-investigate-link-between-junk-food-and-violence-775176.html
- [4]: http://www.sciam.com/article.cfm?id=people-only-use-10-percent-of-brain
- [5]: http://www.portfolio.com/views/columns/natural-selection/2008/01/23/Neuroeconomics-How-Executives-Think
+[1]: http://freakonomics.blogs.nytimes.com/2008/02/08/the-economics-of-obesity-a-qa-with-the-author-of-the-fattening-of-america/
+[2]: http://sciencenow.sciencemag.org/cgi/content/full/2007/713/2
+[3]: http://www.independent.co.uk/life-style/health-and-wellbeing/health-news/prison-study-to-investigate-link-between-junk-food-and-violence-775176.html
+[4]: http://www.sciam.com/article.cfm?id=people-only-use-10-percent-of-brain
+[5]: http://www.portfolio.com/views/columns/natural-selection/2008/01/23/Neuroeconomics-How-Executives-Think

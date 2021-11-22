@@ -2,8 +2,7 @@
 title: 'Making Sense of Iraq: Start changing your point-of-view'
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-13
+date: 2008-01-13
 categories:
   - phenomenology
   - Politics
@@ -23,5 +22,5 @@ On this note, I wish all of you readers and friends a very Happy New Year!
 
 
 
- [1]: http://www.salon.com/opinion/feature/2007/12/19/person_of_the_year/index.html
- [2]: http://www.salon.com/news/primary_sources/2007/09/12/times_soldiers/
+[1]: http://www.salon.com/opinion/feature/2007/12/19/person_of_the_year/index.html
+[2]: http://www.salon.com/news/primary_sources/2007/09/12/times_soldiers/

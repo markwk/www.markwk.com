@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2007/12/ideals-and-reals-bush-may-stink-but.html
-blr_date:
-  - 2013-04-09
+date: 2007-12-08
 categories:
   - Education
   - History
@@ -37,5 +36,5 @@ Our educational systems and our cultural histories hide and distort the truth su
 
 But we can’t stay children forever. As young adults, these ideals need to be sprinkled with some ideal-tarnishing realism, with stories that shatter our childish visions of what we are and were. And as adults fully aware of our role as critical citizens, we need to act in accordance with a complex political and personal tension between remembering and memorializing, between idealizing what is real and keeping real what is ideal.
 
- [1]: http://crookedtimber.org/2007/12/07/torture-in-germany-after-world-war-ii/
- [2]: http://www.plough.com/articles/persecutionintheland.html
+[1]: http://crookedtimber.org/2007/12/07/torture-in-germany-after-world-war-ii/
+[2]: http://www.plough.com/articles/persecutionintheland.html

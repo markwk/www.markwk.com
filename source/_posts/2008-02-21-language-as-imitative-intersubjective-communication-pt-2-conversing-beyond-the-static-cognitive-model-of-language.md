@@ -2,8 +2,7 @@
 title: 'Language as Imitative, Intersubjective Communication, Pt. 2: Conversing beyond the Static, Cognitive Model of Language'
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-13
+date: 2008-02-21
 categories:
   - Animals
   - Language
@@ -17,7 +16,7 @@ Much of Anglo-Saxon, analytic philosophy describes language in a similar way: in
 The Turing Test was purposed in order to determine if an artificial intelligence computer could affectively imitate or mimic human communication such that an outside observer would be recognize or believe in the humanity of the computer’s responses. There are numerous examples of this idea in analytic philosophy. The basic idea was to have a machine that could mimic human communication so as to be indistinguishable from a normal human response. The test went that an observer would ask the same questions to a human respondent and an AI respondent, and both were suppose to respond. The key distinction was to reach a level of AI that one could not tell the difference between human responses and AI responses.  
 The most interesting variation of the Turing Test I think is ***Searle’s Chinese room***:
 
- [1]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective.html
+[1]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective.html
 
 > Now, Searle asks the audience to suppose that he is in a room in which he  
 > receives Chinese characters, consults a book containing an English version of  
@@ -67,8 +66,8 @@ Language is always intersubjective. This is its beauty and this is why communica
 
 (1.) Steeves, H. Peter. “Monkey See,” *The Things Themselves: Phenomenology and the Return to the Everyday*. Albany : Sate University of New York Press, 2006.
 
- [2]: http://en.wikipedia.org/wiki/Chinese_room
- [3]: http://www.mind.ilstu.edu/curriculum/searle_chinese_room/searle_chinese_room.php
- [4]: http://www.mind.ilstu.edu/curriculum/searle_chinese_room/searle_robot_reply.php
- [5]: http://fr.youtube.com/watch?v=lSDFzg8_Wfg
- [6]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective_6620.html
+[2]: http://en.wikipedia.org/wiki/Chinese_room
+[3]: http://www.mind.ilstu.edu/curriculum/searle_chinese_room/searle_chinese_room.php
+[4]: http://www.mind.ilstu.edu/curriculum/searle_chinese_room/searle_robot_reply.php
+[5]: http://fr.youtube.com/watch?v=lSDFzg8_Wfg
+[6]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective_6620.html

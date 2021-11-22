@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/01/shakespeare-on-love.html
-blr_date:
-  - 2013-04-13
+date: 2008-01-27
 categories:
   - Poetry
 ---

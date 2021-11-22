@@ -7,6 +7,7 @@ categories:
   - Reading
   - Self-Development
 comments: true
+date: 2017-08-04
 published: true
 permalink: /more-running-books.html
 ---
@@ -191,7 +192,7 @@ Using some of the training principles from "Science of Running” about individu
 Beyond running and reading, there is also a third variable that I’ve grown to respect and lend credence to, and that’s **listening to your body**. Listen to your body sounds a bit obvious at first glance nuanced, since it can be taken to notice aches and modify anything that doesn't feel right. But this concept goes deeper. 
 
 Somewhere along the human journey we lost some of our corporal self-knowledge. We got distracted by societal demands and personal worries, and we stopped being able to realize that we are bodily beings too. I’m not saying that medical advice and expert running tips aren’t great. Instead, I’ve come to view much of what I hear and learn through the lenses of an embodied being. This physical embodiment of the runner is rarely discussed outright, but I notice that many of my favorite books on running are deeply connected to this theme of the runner as a transcendent physical being.
- 
+
 One of my favorite literary books is Don Delillo's "The Body Artist," which is a poetic meditation on a female character's pursuit to incorporate an emotional history into herself through performance. It's an amazing piece of writing and thinking since you realize how intertwined our existence is to this body. 
 
 While Ben Greenfield, Nancy Clark and Steve Magnus share much about the science of running and endurance, I feel like something is missing in their tales, and that's the body as being-mover. In contrast, books like Born to Run, The Perfect Mile, and Once a Runner are at their best in this epically lived human-animal-runner. These books are reminders to me of this embodiment, and I find "listening to my body" to be a great joy on a long run through the great outdoors.  

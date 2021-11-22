@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2007/11/modest-proposal-for-geographical.html
-blr_date:
-  - 2013-04-16
+date: 2007-11-30
 categories:
   - Anthropology
   - Ethics

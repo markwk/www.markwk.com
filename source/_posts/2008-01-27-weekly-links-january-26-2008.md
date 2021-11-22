@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/01/weekly-links-january-26-2008.html
-blr_date:
-  - 2013-04-09
+date: 2008-01-27
 categories:
   - Cool Links
 ---
@@ -60,10 +59,10 @@ One particularly interesting and chilling thing to note is the description of th
 - H. L. Mencken  
 
 
- [1]: http://sciencenow.sciencemag.org/cgi/content/full/2008/118/3?rss=1
- [2]: http://www.sciencedaily.com/releases/2008/01/080118134531.htm
- [3]: http://econlog.econlib.org/archives/2008/01/singapores_heal.html
- [4]: http://www.sciencedaily.com/releases/2008/01/080117121511.htm
- [5]: http://ocw.mit.edu/
- [6]: http://nymag.com/news/features/crime/2008/42603/
- [7]: http://www.edge.org/q2008/q08_index.html
+[1]: http://sciencenow.sciencemag.org/cgi/content/full/2008/118/3?rss=1
+[2]: http://www.sciencedaily.com/releases/2008/01/080118134531.htm
+[3]: http://econlog.econlib.org/archives/2008/01/singapores_heal.html
+[4]: http://www.sciencedaily.com/releases/2008/01/080117121511.htm
+[5]: http://ocw.mit.edu/
+[6]: http://nymag.com/news/features/crime/2008/42603/
+[7]: http://www.edge.org/q2008/q08_index.html

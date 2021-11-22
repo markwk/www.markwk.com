@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/02/weekly-links-february-16-2008.html
-blr_date:
-  - 2013-04-10
+date: 2008-02-17
 categories:
   - Weekly Links
 ---
@@ -59,12 +58,12 @@ Personal Motto, *Be obscene…***
   
 
 
- [1]: http://news.yahoo.com/s/ap/20080205/ap_on_he_me/obesity_cost
- [2]: http://scienceblogs.com/developingintelligence/2008/02/optimally_wired_a_caffeine_use.php
- [3]: http://www.latimes.com/features/health/la-he-orgasm11feb11,0,7227478.story
- [4]: http://www.thepsychologist.org.uk/archive/archive_home.cfm?volumeID=21&editionID=157&ArticleID=1303
- [5]: http://www.abc.net.au/rn/allinthemind/stories/2008/2154661.htm
- [6]: http://thecatholicatheist.blogspot.com/
- [7]: http://johnbrownks.blogspot.com/2008/02/day-after-super-tuesday-in-kansas.html
- [8]: http://scienceblogs.com/neurophilosophy/2008/01/an_illustrated_history_of_trep.php
- [9]: http://fr.youtube.com/watch?v=2VDmjtK4hNc
+[1]: http://news.yahoo.com/s/ap/20080205/ap_on_he_me/obesity_cost
+[2]: http://scienceblogs.com/developingintelligence/2008/02/optimally_wired_a_caffeine_use.php
+[3]: http://www.latimes.com/features/health/la-he-orgasm11feb11,0,7227478.story
+[4]: http://www.thepsychologist.org.uk/archive/archive_home.cfm?volumeID=21&editionID=157&ArticleID=1303
+[5]: http://www.abc.net.au/rn/allinthemind/stories/2008/2154661.htm
+[6]: http://thecatholicatheist.blogspot.com/
+[7]: http://johnbrownks.blogspot.com/2008/02/day-after-super-tuesday-in-kansas.html
+[8]: http://scienceblogs.com/neurophilosophy/2008/01/an_illustrated_history_of_trep.php
+[9]: http://fr.youtube.com/watch?v=2VDmjtK4hNc

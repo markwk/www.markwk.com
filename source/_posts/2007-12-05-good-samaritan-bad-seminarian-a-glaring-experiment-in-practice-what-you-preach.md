@@ -2,8 +2,7 @@
 title: 'Good Samaritan, Bad Seminarian: A glaring experiment in practice what you preach'
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-10
+date: 2007-12-05
 categories:
   - Education
   - Ethics
@@ -18,4 +17,4 @@ Leaving this question aside for the moment, the most glaring example I’ve come
 
 It seems to me that according to this example, ethics as a discourse of rationalization fails a critical test of the Greek ideal where word and action are and should be the same thing. It seems that this presents us with a number of questions: What is the role and task of an ethicist? In spite of the fact that professional ethicists and seminarians don’t necessarily meet word with their daily action, perhaps we shouldn’t entirely give up on their role in society, because it seems to me that the role of an ethicist is more a public one than a private. The job of an ethicist is to survey a public moral crisis in its singularity, attempt to apply our moral theories, and in the tension of these two extremes (between the singularity of the event and the multiplicity of universal ethics) make a judgment.
 
- [1]: http://schwitzsplinters.blogspot.com/2007/11/mill-on-moral-reflection-and-moral.html
+[1]: http://schwitzsplinters.blogspot.com/2007/11/mill-on-moral-reflection-and-moral.html

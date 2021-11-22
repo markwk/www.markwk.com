@@ -2,8 +2,7 @@
 title: 'Language as Imitative, Intersubjective Communication, Pt. 3: Phenomenology and the Intersubjective Harmonization of Language'
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-16
+date: 2008-02-21
 categories:
   - Animals
   - Language
@@ -44,6 +43,6 @@ For further clarifications of communication, check out [part 4 on Communication 
 
 (1.) Steeves, H. Peter. “Monkey See,” The *Things Themselves: Phenomenology and the Return to the Everyday*. Albany : Sate University of New York Press, 2006.
 
- [1]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective.html
- [2]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective_20.html
- [3]: http://mysticatheist.blogspot.com/2008/04/language-as-imitative-intersubjective.html
+[1]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective.html
+[2]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective_20.html
+[3]: http://mysticatheist.blogspot.com/2008/04/language-as-imitative-intersubjective.html

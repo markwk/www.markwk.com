@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/02/weekly-links-february-9-2008.html
-blr_date:
-  - 2013-04-11
+date: 2008-02-10
 categories:
   - Cool Links
 ---
@@ -53,14 +52,14 @@ categories:
 
 5.) A taste for the taste? Or a taste for the price? A recent study has shown that people sampling different wines labeled with different prices preferred the more expensive wines than the cheaper ones. Specifically, when the same wine was labeled once at a higher and another at a lower prince, people choose the more expensive as their preferred and, moreover, brain scans proved this subjective preference as connected to certain firing in one region in the brain. Going cheap might even mean you’re missing out of some culinary fireworks? Or maybe it means we need to do more studies about those college munchies so well caressed by a 2 dollar shake? 
 
-   
+
 **Quote of the Week:**
 
 “It is too easy — and too partisan — to simply place the blame on the policies of President George W. Bush,” wrote a man who could hardly be blamed if he did, [Al Gore][5].  
 
 
- [1]: http://www.eurekalert.org/pub_releases/2008-02/cumc-brt020108.php
- [2]: http://fr.youtube.com/watch?v=ykcpt08gYxs
- [3]: http://fr.youtube.com/watch?v=iMvAoACgUTU
- [4]: http://topics.nytimes.com/top/reference/timestopics/subjects/h/hurricane_katrina/index.html?inline=nyt-classifier "More articles about Hurricane Katrina."
- [5]: http://topics.nytimes.com/top/reference/timestopics/people/g/al_gore/index.html?inline=nyt-per "More articles about Al Gore."
+[1]: http://www.eurekalert.org/pub_releases/2008-02/cumc-brt020108.php
+[2]: http://fr.youtube.com/watch?v=ykcpt08gYxs
+[3]: http://fr.youtube.com/watch?v=iMvAoACgUTU
+[4]: http://topics.nytimes.com/top/reference/timestopics/subjects/h/hurricane_katrina/index.html?inline=nyt-classifier "More articles about Hurricane Katrina."
+[5]: http://topics.nytimes.com/top/reference/timestopics/people/g/al_gore/index.html?inline=nyt-per "More articles about Al Gore."

@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/02/weekly-links-february-1-2008.html
-blr_date:
-  - 2013-04-16
+date: 2008-02-02
 categories:
   - Cool Links
 ---
@@ -50,10 +49,10 @@ Here’s some collected, sorted, and partially digested information for this wee
 
  
 
- [1]: http://sciencenow.sciencemag.org/cgi/content/full/2008/124/1?rss=1
- [2]: http://www.eurekalert.org/pub_releases/2008-01/tgso-wap012408.php
- [3]: http://www.salon.com/mwt/feature/2008/01/22/roe_v_wade_anniversary/
- [4]: http://scienceblogs.com/cognitivedaily/2008/01/simpler_is_better_how_kids_ide.php
- [5]: http://strangemaps.wordpress.com/2008/01/27/237-regionalism-and-religiosity/
- [6]: http://fr.youtube.com/watch?v=EVipggrV9B0
- [7]: http://news.bbc.co.uk/1/hi/health/7213972.stm
+[1]: http://sciencenow.sciencemag.org/cgi/content/full/2008/124/1?rss=1
+[2]: http://www.eurekalert.org/pub_releases/2008-01/tgso-wap012408.php
+[3]: http://www.salon.com/mwt/feature/2008/01/22/roe_v_wade_anniversary/
+[4]: http://scienceblogs.com/cognitivedaily/2008/01/simpler_is_better_how_kids_ide.php
+[5]: http://strangemaps.wordpress.com/2008/01/27/237-regionalism-and-religiosity/
+[6]: http://fr.youtube.com/watch?v=EVipggrV9B0
+[7]: http://news.bbc.co.uk/1/hi/health/7213972.stm

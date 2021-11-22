@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/02/republicans-democrats-and.html
-blr_date:
-  - 2013-04-11
+date: 2008-02-05
 categories:
   - Politics
 ---

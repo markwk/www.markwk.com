@@ -1,24 +1,14 @@
 ---
-title: 'Let&#8217;s Face It! What is Facebook doing to us?'
+title: "Let's Face It! What is Facebook doing to us?"
 author: Mark Koester
 layout: post
 permalink: /2007/11/lets-face-it-what-is-facebook-doing-to-us.html
-blogger_blog:
-  - mysticatheist.blogspot.com
-blogger_author:
-  - >
-    Mark
-    Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
-blogger_permalink:
-  - /2007/11/lets-face-it-what-is-facebook-doing-to.html
-blr_date:
-  - 2013-04-10
 categories:
   - Life
   - Virtual World
 comments: true
 ---
-# 
+
 
 Let's face it, Facebook (like the internet) has, will, or is in the process of taking over our lives—including my own.
 

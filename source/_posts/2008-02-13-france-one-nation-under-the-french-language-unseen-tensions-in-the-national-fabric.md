@@ -4,8 +4,7 @@ title: >
   fabric
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-11
+date: 2008-02-13
 categories:
   - Community
   - Cultural Comprehesions
@@ -161,6 +160,6 @@ The only way to improve this so present yet so invisible difference in France’
 
 
  []: http://bp0.blogger.com/_b2anAyo1mOo/R7scqjUld_I/AAAAAAAAAB4/U_W5utbA2AM/s1600-h/The Eiffel tower_400.jpg
- [2]: http://fr.youtube.com/watch?v=0uQ_X6nQ8xk
- [3]: http://fr.youtube.com/watch?v=mDVMLKlhOYE
- [4]: http://www.liberation.fr/rebonds/308533.FR.php
+[2]: http://fr.youtube.com/watch?v=0uQ_X6nQ8xk
+[3]: http://fr.youtube.com/watch?v=mDVMLKlhOYE
+[4]: http://www.liberation.fr/rebonds/308533.FR.php

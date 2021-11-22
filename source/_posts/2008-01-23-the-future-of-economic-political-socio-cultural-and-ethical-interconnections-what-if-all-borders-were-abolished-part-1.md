@@ -2,8 +2,7 @@
 title: 'The Future of Economic, Political, Socio-cultural, and Ethical Interconnections: What if all borders were abolished? (Part 1)'
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-11
+date: 2008-01-23
 categories:
   - Geopolitics
   - phenomenology
@@ -37,5 +36,5 @@ If this “show” presented a possible future, let’s try to imagine what woul
 
 (If you want to keep reading, check out [Part 2][2].)
 
- [1]: http://www.arte.tv/fr/histoire-societe/Une-planete-sans-frontieres-_3F/1886968.html
- [2]: http://mysticatheist.blogspot.com/2008/01/future-of-economic-political-socio_22.html
+[1]: http://www.arte.tv/fr/histoire-societe/Une-planete-sans-frontieres-_3F/1886968.html
+[2]: http://mysticatheist.blogspot.com/2008/01/future-of-economic-political-socio_22.html

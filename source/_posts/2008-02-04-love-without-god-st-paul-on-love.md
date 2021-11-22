@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/02/love-without-god-st-paul-on-love.html
-blr_date:
-  - 2013-04-09
+date: 2008-02-04
 categories:
   - Poetry
   - Religion
@@ -79,4 +78,4 @@ This is truly an extraordinary text on love, reflecting the living importance of
 
 Ironically, a strange question could be asked, notably from an atheist perspective in direct challenge to religious thinking: does this text or philosophy on love require *love of God* or could we simply call for *a love of community*? To put this simply, does love, as Paul expresses it and challenges us to live out, even require God?
 
- [1]: http://mysticatheist.blogspot.com/2008/01/shakespeare-on-love.html
+[1]: http://mysticatheist.blogspot.com/2008/01/shakespeare-on-love.html

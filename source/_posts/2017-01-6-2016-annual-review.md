@@ -6,7 +6,8 @@ categories:
   - Goals
   - Personal Development
   - Track Everything
-  - Podcasts
+  - Podcasts 
+  - Annual Review 
 comments: true
 published: true
 ---

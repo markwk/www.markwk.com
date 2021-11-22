@@ -2,8 +2,7 @@
 title: 'Language as Imitative, Intersubjective Communication, Pt. 1: Nocturnal Cat Scratching and Mistaken Assumptions about Language'
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-13
+date: 2008-02-21
 categories:
   - Animals
   - Language
@@ -36,5 +35,5 @@ Clearly, the answer is negative, because our thoughts are expressed in a myriad 
 In any case, the most important assumption holding together Mathieu’s conception of language, his critique of linguistic plurality and the necessity of promoting the standard French language is that in order to be understood “we have to communicate on the basis of a referential language.” The assumption goes that if you don’t know the correct, referential code or codes, you can’t communicate correctly or properly with others. You can’t communicate at all in fact. In this way, what makes communication possible is a shared code of vocabulary and rules, much in the same way that a computer must have a symbolic code in order to function.  
 [To continue reading, go to part 2.][2]
 
- [1]: http://mysticatheist.blogspot.com/2008/02/france-one-nation-under-french-language.html
- [2]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective_20.html
+[1]: http://mysticatheist.blogspot.com/2008/02/france-one-nation-under-french-language.html
+[2]: http://mysticatheist.blogspot.com/2008/02/language-as-imitative-intersubjective_20.html

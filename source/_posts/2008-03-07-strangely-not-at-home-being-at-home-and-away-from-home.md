@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/03/strangely-not-at-home-being-at-home-and.html
-blr_date:
-  - 2013-04-17
+date: 2008-03-07
 categories:
   - Abroad
   - Home

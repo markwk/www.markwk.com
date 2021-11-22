@@ -2,8 +2,7 @@
 title: 'Mapping our Place in the Virtual World: Pt. 1. Universal and Planetary Human Right to Freedom of Internet Speech'
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-13
+date: 2008-01-18
 categories:
   - Community
   - Ethics

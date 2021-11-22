@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/03/weekly-links-march-3-2008.html
-blr_date:
-  - 2013-04-08
+date: 2008-03-03
 categories:
   - Weekly Links
 ---
@@ -58,7 +57,8 @@ from YouTube.com][4]
 
  
 
- [1]: http://www.youtube.com/watch?v=4Sgx_FHsq5M
- [2]: http://fr.youtube.com/watch?v=oEH4sBsazGg
+[1]: http://www.youtube.com/watch?v=4Sgx_FHsq5M
+[2]: http://fr.youtube.com/watch?v=oEH4sBsazGg
  []: http://bp0.blogger.com/_b2anAyo1mOo/R8t53ZpaRDI/AAAAAAAAACA/PqiHvD0ruxQ/s1600-h/US immigration chart.jpg
- [4]: http://fr.youtube.com/watch?v=nv44r3q6zgo
+
+[4]: http://fr.youtube.com/watch?v=nv44r3q6zgo

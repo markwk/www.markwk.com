@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/02/should-national-anthem-be-changed.html
-blr_date:
-  - 2013-04-11
+date: 2008-02-04
 categories:
   - Ideology
   - Poetry
@@ -85,4 +84,4 @@ Our national anthem, like certain parts of our Constitution, namely the right to
 
 If the world is in the process of becoming a world of planetary peace and well-being, then our values need to be reworded, our constitutions retold, and our national anthems rephrased or, perhaps, entirely replaced. I still think that we should be singing about a communal life aimed at collective goods and participative values. But our current national anthem, it seems to me, is outdated. I’m not yet sure what values should be put in their place. But the militaristic model with its military supremacy of might makes right has passed. And, as such, we shouldn’t still be singing about it as part of our national fabric. Our national anthem represents military values. These are values, I challenge, which we should be grown up enough to finally and gloriously replace. 
 
- [1]: http://en.wikipedia.org/wiki/The_Star-Spangled_Banner
+[1]: http://en.wikipedia.org/wiki/The_Star-Spangled_Banner

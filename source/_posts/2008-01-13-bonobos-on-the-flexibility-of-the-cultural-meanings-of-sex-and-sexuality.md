@@ -2,8 +2,7 @@
 title: Bonobos on the Flexibility of the Cultural Meanings of Sex and Sexuality
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-09
+date: 2008-01-13
 categories:
   - Animals
   - Anthropology
@@ -18,5 +17,5 @@ All of this leads me to what is obvious to all of us: sex and sexuality are not 
 
 This is exactly the same concept of sexuality we find in humans where individual cultures and societies express, prohibit, and promote specific forms of sex and sexuality. There is not just one way to have sex. And equally, there isn’t just one meaning behind the sex we have. We often say that sex is about aggressively, but it doesn’t have to be, because if the bonobos express kinship and resolve conflict through sex, why can’t we do the same? Acting like an animal is such a bad thing.
 
- [1]: http://www.ted.com/
- [2]: http://www.ted.com/index.php/talks/view/id/76
+[1]: http://www.ted.com/
+[2]: http://www.ted.com/index.php/talks/view/id/76

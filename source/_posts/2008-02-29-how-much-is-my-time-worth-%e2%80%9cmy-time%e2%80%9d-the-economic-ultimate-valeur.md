@@ -2,8 +2,7 @@
 title: 'How much is my time worth? : “My time,” the economic ultimate valeur'
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-10
+date: 2008-02-29
 categories:
   - Economics
   - phenomenology
@@ -58,4 +57,4 @@ Time is tied up intimately with our lives—as production of the public world an
 
 My time, our time, time is one of the must central concerns or affaires of our economic and human *valeur*. Time is all we have. And, as such, the question *How much is my time worth?*** **booms profoundly to the echoing core of our biological and sociological muscles, bones and souls, because time is, in fact, what we are worth.
 
- [1]: http://freakonomics.blogs.nytimes.com/
+[1]: http://freakonomics.blogs.nytimes.com/

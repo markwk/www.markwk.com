@@ -2,8 +2,7 @@
 title: 'History of Western Metaphysics and Political Thought, Pt. 2: Early Usages and Implications of the Metaphor Body-Politic'
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-08
+date: 2007-12-19
 categories:
   - History of Western Metaphysics
   - Language
@@ -11,7 +10,7 @@ categories:
 ---
 # 
 
-### Biologically-speaking, it isn’t difficult to recognize the human body and animal bodies as a living whole. All of the members of the body contribute the functioning and livelihood of the entire body. As such, when one of the part or members of the body “breaks down,” the entire organism as an organic whole risks death, risks the end of its living. This is not a new idea, and one of the earliest references to this idea of unison of the body dates to one Aesop’s fables. The story describes how certain members of the body perceive the stomach as mechanically useless and lazy gourmandise and, subsequently, no longer functioned for the stomach. 
+Biologically-speaking, it isn’t difficult to recognize the human body and animal bodies as a living whole. All of the members of the body contribute the functioning and livelihood of the entire body. As such, when one of the part or members of the body “breaks down,” the entire organism as an organic whole risks death, risks the end of its living. This is not a new idea, and one of the earliest references to this idea of unison of the body dates to one Aesop’s fables. The story describes how certain members of the body perceive the stomach as mechanically useless and lazy gourmandise and, subsequently, no longer functioned for the stomach. 
 
 ****
 
@@ -131,4 +130,4 @@ La Fontaine repeats this same message in the second part of his poem:
 
 
 
- [1]: http://en.wikipedia.org/wiki/Livy
+[1]: http://en.wikipedia.org/wiki/Livy

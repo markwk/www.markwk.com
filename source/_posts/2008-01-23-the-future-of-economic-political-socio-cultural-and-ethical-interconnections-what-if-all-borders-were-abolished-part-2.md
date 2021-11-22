@@ -2,8 +2,7 @@
 title: 'The Future of Economic, Political, Socio-cultural, and Ethical Interconnections: What if all borders were abolished? (Part 2)'
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-10
+date: 2008-01-23
 categories:
   - Economics
   - Geopolitics
@@ -55,4 +54,4 @@ These human persons in other countries who want to immigrate to another country 
 
 I know this is a seemingly dangerous idea, but the ideas that make the world better ethically and economically are always a bit dangerous in their radicality. The only way we can really be free in a planetary way is if our global neighbors are free too. This means a freedom for all to work and to earn a living wage. It means we, the rich, the lucky, the educated, the industrious, the West, need to seek creative solutions to provide more fair and just jobs to and for our foreign friends.
 
- [1]: http://mysticatheist.blogspot.com/2008/01/future-of-economic-political-socio.html
+[1]: http://mysticatheist.blogspot.com/2008/01/future-of-economic-political-socio.html

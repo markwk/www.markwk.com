@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/02/imaginary-studies-in-individualistic.html
-blr_date:
-  - 2013-04-17
+date: 2008-02-16
 categories:
   - Community
   - TV and Film
@@ -86,5 +85,5 @@ Sawyer is an extreme example but this liberal pattern gets repeated in other way
 To continue on this train of thought, go to [Part 2][3].
 
  []: http://bp1.blogger.com/_b2anAyo1mOo/R7dQxzUld8I/AAAAAAAAABU/vvQatg80ZKc/s1600-h/Lost-Season1.jpg
- [2]: http://en.wikipedia.org/wiki/List_of_Lost_episodes
- [3]: http://mysticatheist.blogspot.com/2008/02/imaginary-studies-in-individualistic_16.html
+[2]: http://en.wikipedia.org/wiki/List_of_Lost_episodes
+[3]: http://mysticatheist.blogspot.com/2008/02/imaginary-studies-in-individualistic_16.html

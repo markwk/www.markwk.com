@@ -2,8 +2,7 @@
 title: 'History of Western Metaphysics and Political Thought, Pt. 1: Introduction to the Intertwining of Language and Metaphysics'
 author: Mark Koester
 layout: post
-blr_date:
-  - 2013-04-17
+date: 2007-12-19
 categories:
   - History of Western Metaphysics
   - Language
@@ -18,7 +17,7 @@ While we discuss “groups” and “members” without hesitation in a seemingl
 
 Contemporary political theory is almost synonymous with the idea that individuals possess rights and responsibilities in relation to the community. Much of the debate in political theory, on the other hands, lies in specifying these communal ties to the individuals. Libertarians lean towards defending the individual and their rights, and Communitarians lean towards understanding the individual as communally-constructed and as such ethically- and politically-obliged and responsible to the community. (As [my blog entry on Bukowski][1] attempts to show, we can’t simply assume naively that we are “communal or social beings,” because the nihilist-cynic critiques and ultimately rejects this “communal spirit” which we so intuitively assume.) 
 
- [1]: http://mysticatheist.blogspot.com/2007/12/loser-within-on-bukowskis-ham-on-rye.html
+[1]: http://mysticatheist.blogspot.com/2007/12/loser-within-on-bukowskis-ham-on-rye.html
 
 Arguably in biology we often speak of “animal societies” and “biological communities,” but we need to distinguish in our discourse between what classifies as a structural coupling (of entities with their biological body, with other entities and with their environments) and what classifies as a way of explaining in terms of organic metaphors what it means for an individual to be in or part of a society. Biologically, our bodies act as a kind of unified plurality of systems and subsystems (see Varela). But politically, describing the state as a body is employing a (historical and metaphysical) metaphor as justification and as explanation. In this instance (society as a body), we are taking quite *literally* (society is body) what would be considered in the philosophy of language as *metaphoric *(the body *is like* a body). While few intellectuals and thinkers would come out and claim directly that “society is an organism” (sociobiology is perhaps an exception that thinks of individual animals, such as bees and ants, as undistinguished parts of a unique *supraorganism*), we cannot deny the presence of organic metaphor, which considers society as (or as like) a living body or organism, in contemporary political and social discourse. 
 

@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2008/02/imaginary-studies-in-individualistic_16.html
-blr_date:
-  - 2013-04-09
+date: 2008-02-17
 categories:
   - Community
   - Politics
@@ -103,5 +102,5 @@ In spite of the fact we find little collective doing or decision-making on the i
 
 
  []: http://bp1.blogger.com/_b2anAyo1mOo/R7dQDzUld7I/AAAAAAAAABM/xpnjcIAgIM8/s1600-h/Lost_cast_(season_1).png
- [2]: http://mysticatheist.blogspot.com/2008/02/imaginary-studies-in-individualistic.html
- [3]: http://mysticatheist.blogspot.com/2007/12/history-of-western-metaphysics-and_18.html
+[2]: http://mysticatheist.blogspot.com/2008/02/imaginary-studies-in-individualistic.html
+[3]: http://mysticatheist.blogspot.com/2007/12/history-of-western-metaphysics-and_18.html

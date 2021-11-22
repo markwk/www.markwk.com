@@ -11,8 +11,7 @@ blogger_author:
     Koesterhttp://www.blogger.com/profile/05861682097171256854mysticatheist@gmail.com
 blogger_permalink:
   - /2007/12/my-use-or-return-to-use-of-term.html
-blr_date:
-  - 2013-04-08
+date: 2007-12-17
 categories:
   - Language
   - Politics
@@ -28,4 +27,4 @@ The third reason I returned to using the term “American” is both historical 
 
 [This entry was originally written as response in [another blog][1].]
 
- [1]: http://thecatholicatheist.blogspot.com/2007/12/whats-in-poll.html
+[1]: http://thecatholicatheist.blogspot.com/2007/12/whats-in-poll.html
